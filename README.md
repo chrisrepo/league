@@ -1,5 +1,4 @@
-# scheduleToolRepo
+# League of Legends API Fun
 
-<h4>A tool that will help csulb students create their class schedule with ease</h4>
-<p>I'm working on this in my free time (not part of my schoolwork) so updates may not be as consistent as I would like them to be. But so far I've had fun building it</p>
+<h4>This is just for playing around with the LoL API (mostly in php) </h4>
 
